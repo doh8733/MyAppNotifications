@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700057664291",
+    "project_id": "metal-hope-380201",
+    "storage_bucket": "metal-hope-380201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700057664291:android:f8b9f4f0b3512550e16a96",
+        "android_client_info": {
+          "package_name": "com.example.myappnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700057664291-106q8r9297volsd2tnhqvl6s3k8hakuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myappnotifications",
+            "certificate_hash": "8b05433a4da35fe45c7c040e46a54b6c614bf9ca"
+          }
+        },
+        {
+          "client_id": "700057664291-01fq180emh0c6gkp6knc24tap01ug6a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3vgVqtRVaw2u8sPIHVcA21Do5xrqFrBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700057664291-01fq180emh0c6gkp6knc24tap01ug6a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
